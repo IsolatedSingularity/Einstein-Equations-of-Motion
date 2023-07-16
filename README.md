@@ -1,2 +1,2 @@
 # Einstein-Equations-of-Motion
-Computing the Einstein equations and geodesic equations for a non-vanishing energy density and expanding spacetime.
+Computation of the Einstein field equation solutions and geodesic equations for a non-vanishing energy densities and expanding spacetimes.
