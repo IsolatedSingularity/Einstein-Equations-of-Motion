@@ -1,5 +1,7 @@
 # Einstein Field Equations
 
+![alt text](https://github.com/IsolatedSingularity/Einstein-Equations-of-Motion/blob/main/Plots/Capture.PNG)
+
 ## Objective
 
 Computation of the Einstein field equation solutions and geodesic equations for a non-vanishing energy densities and expanding spacetimes.
