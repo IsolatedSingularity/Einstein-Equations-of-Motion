@@ -1,4 +1,4 @@
-# Einstein-Equations-of-Motion
+# Einstein Field Equations
 
 ## Objective
 
